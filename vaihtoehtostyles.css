@@ -182,3 +182,6 @@ header .search .fa-magnifying-glass {
 .footer-col i {
     font-size: xx-large;    
 }
+ .footer i:hover {
+    color: coral;
+}
