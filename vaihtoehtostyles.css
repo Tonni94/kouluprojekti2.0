@@ -179,9 +179,9 @@ header .search .fa-magnifying-glass {
    grid-row:span 2;
 
 }
-.footer-col i {
+.footer-col ul i {
     font-size: xx-large;    
 }
- .footer i:hover {
+ .footer ul i:hover {
     color: coral;
 }
